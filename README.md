@@ -14,6 +14,8 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [How do type classes differ from interfaces?](https://www.parsonsmatt.org/2017/01/07/how_do_type_classes_differ_from_interfaces.html)
 
 ## Functors & Family
+- 📖 [Understanding contravariance](https://typeclasses.com/contravariance)
+- 📖 [Understanding profunctors](https://typeclasses.com/profunctors)
 - 📹 [George Wilson - Contravariant Functors: The Other Side of the Coin](https://www.youtube.com/watch?v=IJ_bVVsQhvc)
 - 📹 [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 - 📹 [George Wilson - The Extended Functor Family](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
