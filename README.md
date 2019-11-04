@@ -6,8 +6,14 @@
 
 # Type Class
 - 📹 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
+- 📖 [Instances and Dictionaries](https://www.schoolofhaskell.com/user/jfischoff/instances-and-dictionaries)
 
 # Functors & Family
 - 📹 [George Wilson - Contravariant Functors: The Other Side of the Coin](https://www.youtube.com/watch?v=IJ_bVVsQhvc)
 - 📹 [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 - 📹 [George Wilson - The Extended Functor Family](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
+
+# Monad
+- 📹 [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74) <- **Best explanation about Free Monad**
+- 📹 [Free as in Monads (in Scala)](https://www.youtube.com/watch?v=cxMo1RMsD0M)
+- 📹 [PS Unscripted - Comonads for UIs](https://www.youtube.com/watch?v=EoJ9xnzG76M)
