@@ -20,3 +20,8 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📹 [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74) **<- Best explanation about Free Monad**
 - 📹 [Free as in Monads (in Scala)](https://www.youtube.com/watch?v=cxMo1RMsD0M)
 - 📹 [PS Unscripted - Comonads for UIs](https://www.youtube.com/watch?v=EoJ9xnzG76M)
+
+---
+
+## Other curated resources
+- https://github.com/mmenestret/fp-resources
