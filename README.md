@@ -13,16 +13,23 @@ My personal collection of good reads on typed functional programming. Feel free 
 ### Type Level Programming
 - 📖 [Basic Type Level Programming in Haskell](https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)
 - 📖 [Fun with Typed Type-Level Programming in PureScript](https://blog.wuct.me/fun-with-typed-type-level-programming-in-purescript-5f8af42cfec5)
+- 📖 [Simple Parameteried Queries with Row Union](https://qiita.com/kimagure/items/9bae08513a5f2658de2c)
+- 📖 [Parsing type-level strings to extract types](https://qiita.com/kimagure/items/6729a5d55ab99bcee8ec)
 - 📹 [Making sense of the Haskell type system by Ryan Lemmer](https://www.youtube.com/watch?v=tJNU1H9XewM)
 
 ## Type Class
 - 📖 [Instances and Dictionaries](https://www.schoolofhaskell.com/user/jfischoff/instances-and-dictionaries)
 - 📖 [How do type classes differ from interfaces?](https://www.parsonsmatt.org/2017/01/07/how_do_type_classes_differ_from_interfaces.html)
+- 📖 Type classes and instances are pattern matching for types
+  - [Article](https://qiita.com/kimagure/items/08c59fa21adcd6968ae1)
+  - [Slides](https://speakerdeck.com/justinwoo/type-classes-pattern-matching-for-types)
 - 📹 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 
 ## Functors & Family
 - 📖 [Understanding contravariance](https://typeclasses.com/contravariance)
 - 📖 [Understanding profunctors](https://typeclasses.com/profunctors)
+- 📖 [Understanding Functor and Monad With a Bag of Peanuts](https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e)
+- 📖 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - 📹 [George Wilson - Contravariant Functors: The Other Side of the Coin](https://www.youtube.com/watch?v=IJ_bVVsQhvc)
 - 📹 [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 - 📹 [George Wilson - The Extended Functor Family](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
