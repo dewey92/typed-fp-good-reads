@@ -51,5 +51,19 @@ My personal collection of good reads on typed functional programming. Feel free 
 
 ---
 
+## Youtube Channels
+Not necessarily typed FP, but they are great channels to learn FP
+
+- [ICFP Video](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
+- [PureScript Community](https://www.youtube.com/channel/UCPtHLGu_WXh-OvX8NAVtDEw)
+- [LambdaConf](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg)
+- [Haskell at Work](https://www.youtube.com/channel/UCUgxpaK7ySR-z6AXA5-uDuw)
+- [Boston Haskell](https://www.youtube.com/channel/UCUCpgCWjaniUkX88wZrK_Ig/videos)
+- [Bay Area Haskell](https://www.youtube.com/channel/UCCL46pxWWtfhK3TxL55ybeQ)
+- [Monadic Warsaw](https://www.youtube.com/channel/UCCeiYYR2fCXarkfSqqFBwuA)
+- [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
+- [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
+- [Edward Kmett](https://www.youtube.com/channel/UCE3MJbkTVLoK8dAq7Del8ww)
+
 ## Other curated resources
 - https://github.com/mmenestret/fp-resources
