@@ -66,4 +66,5 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [Edward Kmett](https://www.youtube.com/channel/UCE3MJbkTVLoK8dAq7Del8ww)
 
 ## Other curated resources
+- https://github.com/safareli/tweets
 - https://github.com/mmenestret/fp-resources
