@@ -17,19 +17,20 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Parsing type-level strings to extract types](https://qiita.com/kimagure/items/6729a5d55ab99bcee8ec)
 - 📹 [Making sense of the Haskell type system by Ryan Lemmer](https://www.youtube.com/watch?v=tJNU1H9XewM)
 
-## Type Class
+### Type Class
 - 📖 [Instances and Dictionaries](https://www.schoolofhaskell.com/user/jfischoff/instances-and-dictionaries)
 - 📖 [How do type classes differ from interfaces?](https://www.parsonsmatt.org/2017/01/07/how_do_type_classes_differ_from_interfaces.html)
 - 📖 Type classes and instances are pattern matching for types
   - [Article](https://qiita.com/kimagure/items/08c59fa21adcd6968ae1)
   - [Slides](https://speakerdeck.com/justinwoo/type-classes-pattern-matching-for-types)
 - 📹 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
+- 📖 [Lifts for free: making mtl typeclasses derivable](https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/)
 
 ## Functors & Family
+- 📖 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- 📖 [Understanding Functor and Monad With a Bag of Peanuts](https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e)
 - 📖 [Understanding contravariance](https://typeclasses.com/contravariance)
 - 📖 [Understanding profunctors](https://typeclasses.com/profunctors)
-- 📖 [Understanding Functor and Monad With a Bag of Peanuts](https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e)
-- 📖 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - 📹 [George Wilson - Contravariant Functors: The Other Side of the Coin](https://www.youtube.com/watch?v=IJ_bVVsQhvc)
 - 📹 [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 - 📹 [George Wilson - The Extended Functor Family](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
@@ -42,9 +43,11 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📹 [John Hughes - Monad and all that](https://www.youtube.com/playlist?list=PLGCr8P_YncjVeZTcfHT1Cb1OfVnNahek5) **<- Deep dive into Monad**
 - 📹 [Vincent Marquez, Index your State for Safer Functional APIs](https://www.youtube.com/watch?v=JPVagd9W4Lo)
 
-## App Structure
+## App Structure, Tips, etc
 - 📖 [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
 - 📖 [Invert Your Mocks!](https://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
+- 📖 [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- 📖 [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 
 ## GHC
 - 📹 [DerivingVia: How to Turn Hand-Written Instances into an Anti-Pattern](https://www.youtube.com/watch?v=Zww6pKxxaOg&t=1396s)
