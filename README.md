@@ -48,6 +48,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Invert Your Mocks!](https://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
 - 📖 [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - 📖 [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+- 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 
 ## GHC
 - 📹 [DerivingVia: How to Turn Hand-Written Instances into an Anti-Pattern](https://www.youtube.com/watch?v=Zww6pKxxaOg&t=1396s)
@@ -64,6 +65,7 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [Boston Haskell](https://www.youtube.com/channel/UCUCpgCWjaniUkX88wZrK_Ig/videos)
 - [Bay Area Haskell](https://www.youtube.com/channel/UCCL46pxWWtfhK3TxL55ybeQ)
 - [Monadic Warsaw](https://www.youtube.com/channel/UCCeiYYR2fCXarkfSqqFBwuA)
+- [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA)
 - [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 - [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
 - [Edward Kmett](https://www.youtube.com/channel/UCE3MJbkTVLoK8dAq7Del8ww)
