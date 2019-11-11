@@ -32,6 +32,15 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Rank-2-Types and the Scope](https://discourse.purescript.org/t/rank-2-types-and-the-scope/1029) -- See Nate's fabulous answer
 - 📖 [4 Days of GHC Extensions: Rank N Types](https://ocharles.org.uk/guest-posts/2014-12-18-rank-n-types.html)
 
+### Functional Dependencies
+- 📖 [Functional dependencies (Haskell Wiki)](https://wiki.haskell.org/Functional_dependencies)
+- 📖 [Haskell/Advanced type classes](https://en.wikibooks.org/wiki/Haskell/Advanced_type_classes)
+- 📖 [Functional Dependencies (Jordan Martinez)](https://github.com/JordanMartinez/purescript-jordans-reference/blob/cf7ff6362c4b26229b386f36ccd99f25644744db/11-Syntax/01-Basic-Syntax/src/03-TypeClasses-and-Newtypes/07-Functional-Dependencies.purs)
+- 📖 [24 Days of GHC Extensions: Functional Dependencies](https://ocharles.org.uk/posts/2014-12-14-functional-dependencies.html)
+- 📖 [Functional Dependencies & Type Families](https://gvolpe.github.io/blog/functional-dependencies-and-type-families/)
+- 📖 [Fun with Funtional Dependenies or (Draft) Types as Values in Stati Computations in Haskell](http://www.cse.chalmers.se/~hallgren/Papers/hallgren.pdf)
+- 📹 [Mark Jones: Language and Program Design for Functional Dependencies](https://www.youtube.com/watch?v=oFopoOr9lmw)
+
 ## Functors & Family
 - 📖 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - 📖 [Understanding Functor and Monad With a Bag of Peanuts](https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e)
