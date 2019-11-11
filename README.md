@@ -70,10 +70,12 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Introduction to Tagless Final](https://serokell.io/blog/tagless-final)
 - 📖 [Mocking Effects Using Constraints And Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds)
 - 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
+- 📹 [Matt Parsons - Exceptional Haskell](https://youtu.be/A5c9kgDYXr8)
 
 ## Lens
 - 📖 [Practical Profunctor Lenses & Optics In PureScript](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics/)
 - 📖 [Lenses for the Mere Mortal: PureScript Edition](https://leanpub.com/lenses) -- FREE book/pdf
+- 📹 [Sara Fransson: Functional lenses through a practical lens](https://www.youtube.com/watch?v=sFzuu676pFs)
 
 ## GHC
 - 📹 [DerivingVia: How to Turn Hand-Written Instances into an Anti-Pattern](https://www.youtube.com/watch?v=Zww6pKxxaOg&t=1396s)
