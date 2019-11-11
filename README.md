@@ -45,11 +45,13 @@ My personal collection of good reads on typed functional programming. Feel free 
 
 ## App Structure, Tips, etc
 - 📖 [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
+- 📖 [MonadIO Considered Harmful](https://chrispenner.ca/posts/monadio-considered-harmful)
 - 📖 [Invert Your Mocks!](https://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
 - 📖 [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - 📖 [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 - 📖 [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html)
 - 📖 [Introduction to Tagless Final](https://serokell.io/blog/tagless-final)
+- 📖 [Mocking Effects Using Constraints And Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds)
 - 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 
 ## GHC
