@@ -95,6 +95,34 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
 - [Edward Kmett](https://www.youtube.com/channel/UCE3MJbkTVLoK8dAq7Del8ww)
 
+## Twitter Accounts You Should Follow
+- [Alexis King - @lexi_lambda](https://twitter.com/lexi_lambda)
+- [Iceland Jack](https://twitter.com/Iceland_jack)
+- [Type Classes](https://twitter.com/typeclasses)
+- [Andres Löh](https://twitter.com/kosmikus)
+- [Vanessa McHale](https://twitter.com/vamchale)
+- [Matt Parsons](https://twitter.com/mattoflambda)
+- [Monoid Mary](https://twitter.com/argumatronic)
+- [Vaibhav Sagar](https://twitter.com/vbhvsgr)
+- [Sukant Hajra](https://twitter.com/shajra)
+- [Sofia](https://twitter.com/typeswitch)
+- [Liam Goodacre](https://twitter.com/goodacre_liam)
+- [Rúnar](https://twitter.com/runarorama)
+- [Alejandro Serrano, Haskeller](https://twitter.com/trupill)
+- [Bartosz Milewski](https://twitter.com/BartoszMilewski)
+- [hdgarrood](https://twitter.com/hdgarrood)
+- [Impure Pics](https://twitter.com/impurepics)
+- [Isaac](https://twitter.com/fresheyeball)
+- [Gary Burgess](https://twitter.com/gb_r)
+- [Soham Chowdhury](https://twitter.com/mrkgrnao)
+- [Paweł Szulc - @rabbitonweb](https://twitter.com/rabbitonweb)
+- [William J. Bowman](https://twitter.com/wilbowma)
+- [Igal Tabachnik](https://twitter.com/hmemcpy)
+- [Brian McKenna](https://twitter.com/puffnfresh)
+- [Josh Burgess](https://twitter.com/_joshburgess)
+- [paulette d. koronkevich](https://twitter.com/koronkebitch)
+- [Stephanie Weirich](https://twitter.com/fancytypes)
+
 ## Other curated resources
 - https://github.com/safareli/tweets
 - https://github.com/mmenestret/fp-resources
