@@ -29,8 +29,8 @@ My personal collection of good reads on typed functional programming. Feel free 
 ### Higher Ranked Types / Rank N Types
 - 📖 [Higher-Ranked Types](https://8thlight.com/blog/mark-grant/2013/09/13/higher-ranked-types-part-1.html)
 - 📖 [Rank-N types, a simple DB example](https://chrisdone.com/posts/rankntypes/)
+- 📖 [Rank-2-Types and the Scope](https://discourse.purescript.org/t/rank-2-types-and-the-scope/1029) -- See Nate's fabulous answer
 - 📖 [4 Days of GHC Extensions: Rank N Types](https://ocharles.org.uk/guest-posts/2014-12-18-rank-n-types.html)
-- 
 
 ## Functors & Family
 - 📖 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
@@ -60,6 +60,10 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Introduction to Tagless Final](https://serokell.io/blog/tagless-final)
 - 📖 [Mocking Effects Using Constraints And Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds)
 - 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
+
+## Lens
+- 📖 [Practical Profunctor Lenses & Optics In PureScript](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics/)
+- 📖 [Lenses for the Mere Mortal: PureScript Edition](https://leanpub.com/lenses) -- FREE book/pdf
 
 ## GHC
 - 📹 [DerivingVia: How to Turn Hand-Written Instances into an Anti-Pattern](https://www.youtube.com/watch?v=Zww6pKxxaOg&t=1396s)
