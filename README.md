@@ -38,7 +38,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Functional Dependencies (Jordan Martinez)](https://github.com/JordanMartinez/purescript-jordans-reference/blob/cf7ff6362c4b26229b386f36ccd99f25644744db/11-Syntax/01-Basic-Syntax/src/03-TypeClasses-and-Newtypes/07-Functional-Dependencies.purs)
 - 📖 [24 Days of GHC Extensions: Functional Dependencies](https://ocharles.org.uk/posts/2014-12-14-functional-dependencies.html)
 - 📖 [Functional Dependencies & Type Families](https://gvolpe.github.io/blog/functional-dependencies-and-type-families/)
-- 📖 [Fun with Funtional Dependenies or (Draft) Types as Values in Stati Computations in Haskell](http://www.cse.chalmers.se/~hallgren/Papers/hallgren.pdf)
+- 📖 [Fun with Funtional Dependenies or (Draft) Types as Values in Static Computations in Haskell](http://www.cse.chalmers.se/~hallgren/Papers/hallgren.pdf)
 - 📹 [Mark Jones: Language and Program Design for Functional Dependencies](https://www.youtube.com/watch?v=oFopoOr9lmw)
 
 ## Functors & Family
