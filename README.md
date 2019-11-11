@@ -63,6 +63,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
 - 📖 [MonadIO Considered Harmful](https://chrispenner.ca/posts/monadio-considered-harmful)
 - 📖 [Invert Your Mocks!](https://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
+- 📖 [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
 - 📖 [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - 📖 [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 - 📖 [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html)
