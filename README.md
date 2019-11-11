@@ -16,8 +16,8 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 Type classes and instances are pattern matching for types
   - [Article](https://qiita.com/kimagure/items/08c59fa21adcd6968ae1)
   - [Slides](https://speakerdeck.com/justinwoo/type-classes-pattern-matching-for-types)
-- 📹 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - 📖 [Lifts for free: making mtl typeclasses derivable](https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/)
+- 📹 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI) **<- Cool introduction to type class**
 
 ### Existential Type
 - 📖 [Existential quantification (by Mark Karpov)](https://markkarpov.com/post/existential-quantification.html)
