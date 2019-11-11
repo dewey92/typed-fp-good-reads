@@ -3,13 +3,6 @@ My personal collection of good reads on typed functional programming. Feel free 
 
 ## Types
 
-### Existential Type
-- 📖 [Existential quantification (by Mark Karpov)](https://markkarpov.com/post/existential-quantification.html)
-- 📖 [Existential types and data abstraction (by Ivan Veselov)](http://iveselov.info/posts/2012-08-30-existential-types.html)
-- 📖 [Existential Types in Scala](https://dzone.com/articles/existential-types-in-scala)
-- 📖 [Existential type (Haskell wiki)](https://wiki.haskell.org/Existential_type)
-- 📹 [Existential Types — Make OOP Great Again! by Julien Richard Foy](https://www.youtube.com/watch?v=6j5kZj17aUw)
-
 ### Type Level Programming
 - 📖 [Basic Type Level Programming in Haskell](https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)
 - 📖 [Fun with Typed Type-Level Programming in PureScript](https://blog.wuct.me/fun-with-typed-type-level-programming-in-purescript-5f8af42cfec5)
@@ -25,6 +18,19 @@ My personal collection of good reads on typed functional programming. Feel free 
   - [Slides](https://speakerdeck.com/justinwoo/type-classes-pattern-matching-for-types)
 - 📹 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - 📖 [Lifts for free: making mtl typeclasses derivable](https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/)
+
+### Existential Type
+- 📖 [Existential quantification (by Mark Karpov)](https://markkarpov.com/post/existential-quantification.html)
+- 📖 [Existential types and data abstraction (by Ivan Veselov)](http://iveselov.info/posts/2012-08-30-existential-types.html)
+- 📖 [Existential Types in Scala](https://dzone.com/articles/existential-types-in-scala)
+- 📖 [Existential type (Haskell wiki)](https://wiki.haskell.org/Existential_type)
+- 📹 [Existential Types — Make OOP Great Again! by Julien Richard Foy](https://www.youtube.com/watch?v=6j5kZj17aUw)
+
+### Higher Ranked Types / Rank N Types
+- 📖 [Higher-Ranked Types](https://8thlight.com/blog/mark-grant/2013/09/13/higher-ranked-types-part-1.html)
+- 📖 [Rank-N types, a simple DB example](https://chrisdone.com/posts/rankntypes/)
+- 📖 [4 Days of GHC Extensions: Rank N Types](https://ocharles.org.uk/guest-posts/2014-12-18-rank-n-types.html)
+- 
 
 ## Functors & Family
 - 📖 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
