@@ -95,7 +95,7 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
 - [Edward Kmett](https://www.youtube.com/channel/UCE3MJbkTVLoK8dAq7Del8ww)
 
-## Twitter Accounts You Should Follow
+## Twitter Accounts to Follow
 - [Alexis King](https://twitter.com/lexi_lambda)
 - [Iceland Jack](https://twitter.com/Iceland_jack)
 - [Type Classes](https://twitter.com/typeclasses)
@@ -113,7 +113,7 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [Sofia](https://twitter.com/typeswitch)
 - [Liam Goodacre](https://twitter.com/goodacre_liam)
 - [Rúnar](https://twitter.com/runarorama)
-- [Alejandro Serrano, Haskeller](https://twitter.com/trupill)
+- [Alejandro Serrano](https://twitter.com/trupill)
 - [Erik Meijer](https://twitter.com/headinthebox)
 - [Bartosz Milewski](https://twitter.com/BartoszMilewski)
 - [hdgarrood](https://twitter.com/hdgarrood)
@@ -124,7 +124,7 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [Gary Burgess](https://twitter.com/gb_r)
 - [Taylor Fausak](https://twitter.com/taylorfausak)
 - [Soham Chowdhury](https://twitter.com/mrkgrnao)
-- [Paweł Szulc - @rabbitonweb](https://twitter.com/rabbitonweb)
+- [Paweł Szulc](https://twitter.com/rabbitonweb)
 - [William J. Bowman](https://twitter.com/wilbowma)
 - [Igal Tabachnik](https://twitter.com/hmemcpy)
 - [Brian McKenna](https://twitter.com/puffnfresh)
