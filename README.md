@@ -45,6 +45,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Using IxMonad to enforce good hamburger building in Purescript](https://qiita.com/kimagure/items/a0ee7313e8c7690bf3f5)
 - 📹 [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74) **<- Best explanation about Free Monad**
 - 📹 [Free as in Monads (in Scala)](https://www.youtube.com/watch?v=cxMo1RMsD0M)
+- 📹 [A Series of Unfortunate Effects - Robert M. Avram](https://www.youtube.com/watch?v=y5jZnMImbMY)
 - 📹 [PS Unscripted - Comonads for UIs](https://www.youtube.com/watch?v=EoJ9xnzG76M)
 - 📹 [John Hughes - Monad and all that](https://www.youtube.com/playlist?list=PLGCr8P_YncjVeZTcfHT1Cb1OfVnNahek5) **<- Deep dive into Monad**
 - 📹 [Vincent Marquez, Index your State for Safer Functional APIs](https://www.youtube.com/watch?v=JPVagd9W4Lo)
