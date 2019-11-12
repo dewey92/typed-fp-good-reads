@@ -28,6 +28,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 
 ### Others..
 - 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
+- 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
 
 ### Higher Ranked Types / Rank N Types
 - 📖 [Higher-Ranked Types](https://8thlight.com/blog/mark-grant/2013/09/13/higher-ranked-types-part-1.html)
