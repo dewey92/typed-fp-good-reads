@@ -26,6 +26,9 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Existential type (Haskell wiki)](https://wiki.haskell.org/Existential_type)
 - 📹 [Existential Types — Make OOP Great Again! by Julien Richard Foy](https://www.youtube.com/watch?v=6j5kZj17aUw)
 
+### Others..
+- 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
+
 ### Higher Ranked Types / Rank N Types
 - 📖 [Higher-Ranked Types](https://8thlight.com/blog/mark-grant/2013/09/13/higher-ranked-types-part-1.html)
 - 📖 [Rank-N types, a simple DB example](https://chrisdone.com/posts/rankntypes/)
@@ -52,6 +55,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 
 ## Monad
 - 📖 [Using IxMonad to enforce good hamburger building in Purescript](https://qiita.com/kimagure/items/a0ee7313e8c7690bf3f5)
+- 📖 [Demystifying `MonadBaseControl`](https://lexi-lambda.github.io/blog/2019/09/07/demystifying-monadbasecontrol/)
 - 📹 [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74) **<- Best explanation about Free Monad**
 - 📹 [Free as in Monads (in Scala)](https://www.youtube.com/watch?v=cxMo1RMsD0M)
 - 📹 [A Series of Unfortunate Effects - Robert M. Avram](https://www.youtube.com/watch?v=y5jZnMImbMY)
@@ -63,6 +67,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
 - 📖 [MonadIO Considered Harmful](https://chrispenner.ca/posts/monadio-considered-harmful)
 - 📖 [Invert Your Mocks!](https://www.parsonsmatt.org/2017/07/27/inverted_mocking.html)
+- 📖 [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern)
 - 📖 [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
 - 📖 [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - 📖 [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
@@ -71,6 +76,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Mocking Effects Using Constraints And Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds)
 - 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - 📹 [Matt Parsons - Exceptional Haskell](https://youtu.be/A5c9kgDYXr8)
+- 📹 [Next Level MTL - George Wilson ](https://www.youtube.com/watch?v=GZPup5Iuaqw)
 
 ## Lens
 - 📖 [Practical Profunctor Lenses & Optics In PureScript](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics/)
