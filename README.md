@@ -26,11 +26,6 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Existential type (Haskell wiki)](https://wiki.haskell.org/Existential_type)
 - 📹 [Existential Types — Make OOP Great Again! by Julien Richard Foy](https://www.youtube.com/watch?v=6j5kZj17aUw)
 
-### Others..
-- 📖 [Refine, fine, fine](https://danieljharvey.github.io/posts/2019-07-05-refined-types.html)
-- 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
-- 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
-
 ### Higher Ranked Types / Rank N Types
 - 📖 [Higher-Ranked Types](https://8thlight.com/blog/mark-grant/2013/09/13/higher-ranked-types-part-1.html)
 - 📖 [Rank-N types, a simple DB example](https://chrisdone.com/posts/rankntypes/)
@@ -45,6 +40,11 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Functional Dependencies & Type Families](https://gvolpe.github.io/blog/functional-dependencies-and-type-families/)
 - 📖 [Fun with Funtional Dependenies or (Draft) Types as Values in Static Computations in Haskell](http://www.cse.chalmers.se/~hallgren/Papers/hallgren.pdf)
 - 📹 [Mark Jones: Language and Program Design for Functional Dependencies](https://www.youtube.com/watch?v=oFopoOr9lmw)
+
+### Others..
+- 📖 [Refine, fine, fine](https://danieljharvey.github.io/posts/2019-07-05-refined-types.html)
+- 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
+- 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
 
 ## Functors & Family
 - 📖 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
