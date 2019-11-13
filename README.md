@@ -27,6 +27,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📹 [Existential Types — Make OOP Great Again! by Julien Richard Foy](https://www.youtube.com/watch?v=6j5kZj17aUw)
 
 ### Others..
+- 📖 [Refine, fine, fine](https://danieljharvey.github.io/posts/2019-07-05-refined-types.html)
 - 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
 - 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
 
@@ -76,6 +77,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html)
 - 📖 [Introduction to Tagless Final](https://serokell.io/blog/tagless-final)
 - 📖 [Mocking Effects Using Constraints And Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds)
+- 📖 [Functional architecture is Ports and Adapters](https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/)
 - 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - 📹 [Matt Parsons - Exceptional Haskell](https://youtu.be/A5c9kgDYXr8)
 - 📹 [Next Level MTL - George Wilson ](https://www.youtube.com/watch?v=GZPup5Iuaqw)
