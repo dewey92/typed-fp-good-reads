@@ -81,6 +81,8 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - 📹 [Matt Parsons - Exceptional Haskell](https://youtu.be/A5c9kgDYXr8)
 - 📹 [Next Level MTL - George Wilson ](https://www.youtube.com/watch?v=GZPup5Iuaqw)
+- 📹 [Railway oriented programming: Error handling in functional languages by Scott Wlaschin](https://vimeo.com/113707214)
+- 📹 [Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 
 ## Lens
 - 📖 [Practical Profunctor Lenses & Optics In PureScript](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics/)
