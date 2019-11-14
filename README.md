@@ -78,7 +78,9 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Introduction to Tagless Final](https://serokell.io/blog/tagless-final)
 - 📖 [Mocking Effects Using Constraints And Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds)
 - 📖 [Functional architecture is Ports and Adapters](https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/)
-- 📖 [Polysemy is fun! - Part 1](https://haskell-explained.gitlab.io/blog/posts/2019/07/28/polysemy-is-cool-part-1/index.html)
+- 📖 Polysemy is fun!
+  - [Part 1](https://haskell-explained.gitlab.io/blog/posts/2019/07/28/polysemy-is-cool-part-1/index.html)
+  - [Part 2](https://haskell-explained.gitlab.io/blog/posts/2019/07/31/polysemy-is-cool-part-2/index.html)
 - 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - 📹 [Matt Parsons - Exceptional Haskell](https://youtu.be/A5c9kgDYXr8)
 - 📹 [Next Level MTL - George Wilson ](https://www.youtube.com/watch?v=GZPup5Iuaqw)
@@ -137,7 +139,6 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [Martin Odersky](https://twitter.com/odersky)
 - [Isaac](https://twitter.com/fresheyeball)
 - [Gary Burgess](https://twitter.com/gb_r)
-- [Taylor Fausak](https://twitter.com/taylorfausak)
 - [Soham Chowdhury](https://twitter.com/mrkgrnao)
 - [Paweł Szulc](https://twitter.com/rabbitonweb)
 - [William J. Bowman](https://twitter.com/wilbowma)
