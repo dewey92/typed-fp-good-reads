@@ -8,6 +8,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Fun with Typed Type-Level Programming in PureScript](https://blog.wuct.me/fun-with-typed-type-level-programming-in-purescript-5f8af42cfec5)
 - 📖 [Simple Parameteried Queries with Row Union](https://qiita.com/kimagure/items/9bae08513a5f2658de2c)
 - 📖 [Parsing type-level strings to extract types](https://qiita.com/kimagure/items/6729a5d55ab99bcee8ec)
+- 📖 [Well-typed printfs cannot go wrong](http://kcsongor.github.io/purescript-safe-printf/)
 - 📹 [Making sense of the Haskell type system by Ryan Lemmer](https://www.youtube.com/watch?v=tJNU1H9XewM)
 
 ### Type Class
