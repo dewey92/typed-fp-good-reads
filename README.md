@@ -18,13 +18,17 @@ My personal collection of good reads on typed functional programming. Feel free 
   - [Article](https://qiita.com/kimagure/items/08c59fa21adcd6968ae1)
   - [Slides](https://speakerdeck.com/justinwoo/type-classes-pattern-matching-for-types)
 - 📖 [Lifts for free: making mtl typeclasses derivable](https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/)
+- 📖 [PureScript: Instance chains and Overlapping Instances](https://liamgoodacre.github.io/purescript/instance/chain/2017/08/18/purescript-instance-chain.html)
+- 📖 [On Type Class Instance Selection](https://link.medium.com/wFKFWYtSI1)
 - 📹 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI) **<- Cool introduction to type class**
+- 📹 [Type Classes & Constrained Polymorphism - Haskell](https://youtu.be/pCzTCgp3d_U)
 
 ### Existential Type
 - 📖 [Existential quantification (by Mark Karpov)](https://markkarpov.com/post/existential-quantification.html)
 - 📖 [Existential types and data abstraction (by Ivan Veselov)](http://iveselov.info/posts/2012-08-30-existential-types.html)
 - 📖 [Existential Types in Scala](https://dzone.com/articles/existential-types-in-scala)
 - 📖 [Existential type (Haskell wiki)](https://wiki.haskell.org/Existential_type)
+- 📖 [Existential Quantification Patterns and Antipatterns](https://link.medium.com/yIBh6kfTI1)
 - 📹 [Existential Types — Make OOP Great Again! by Julien Richard Foy](https://www.youtube.com/watch?v=6j5kZj17aUw)
 
 ### Higher Ranked Types / Rank N Types
@@ -44,6 +48,8 @@ My personal collection of good reads on typed functional programming. Feel free 
 
 ### Others..
 - 📖 [Refine, fine, fine](https://danieljharvey.github.io/posts/2019-07-05-refined-types.html)
+- 📖 [Why Types Matter - A type-safe world](https://slides.com/volpegabriel/why-types-matter#/)
+- 📖 [Thinking in Types](https://thoughtbot.com/blog/thinking-in-types)
 - 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
 - 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
 
