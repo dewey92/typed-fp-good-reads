@@ -9,6 +9,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Simple Parameteried Queries with Row Union](https://qiita.com/kimagure/items/9bae08513a5f2658de2c)
 - 📖 [Parsing type-level strings to extract types](https://qiita.com/kimagure/items/6729a5d55ab99bcee8ec)
 - 📖 [Well-typed printfs cannot go wrong](http://kcsongor.github.io/purescript-safe-printf/)
+- 📖 [Kinds and Type Level Programming](http://christof-schramm.net/posts/2019-10-14-type-level-programming-part2.html)
 - 📹 [Making sense of the Haskell type system by Ryan Lemmer](https://www.youtube.com/watch?v=tJNU1H9XewM)
 
 ### Type Class
@@ -50,6 +51,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Refine, fine, fine](https://danieljharvey.github.io/posts/2019-07-05-refined-types.html)
 - 📖 [Why Types Matter - A type-safe world](https://slides.com/volpegabriel/why-types-matter#/)
 - 📖 [Thinking in Types](https://thoughtbot.com/blog/thinking-in-types)
+- 📖 [PureScript GADTs Alternatives — Recap](https://medium.com/@hgiasac/purescript-gadts-alternatives-recap-7960daf4acd8)
 - 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
 - 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
 
