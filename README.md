@@ -52,6 +52,7 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [Why Types Matter - A type-safe world](https://slides.com/volpegabriel/why-types-matter#/)
 - 📖 [Thinking in Types](https://thoughtbot.com/blog/thinking-in-types)
 - 📖 [PureScript GADTs Alternatives — Recap](https://medium.com/@hgiasac/purescript-gadts-alternatives-recap-7960daf4acd8)
+- 📖 [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 - 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
 - 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
 
