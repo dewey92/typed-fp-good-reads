@@ -163,4 +163,4 @@ Not necessarily typed FP, but they are great channels to learn FP
 ## Other curated resources
 - https://github.com/safareli/tweets
 - https://github.com/mmenestret/fp-resources
-- https://github.com/soupi/haskell-study-plan/blob/master/README.org
+- https://github.com/soupi/haskell-study-plan
