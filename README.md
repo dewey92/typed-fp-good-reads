@@ -83,6 +83,8 @@ My personal collection of good reads on typed functional programming. Feel free 
 - 📖 [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern)
 - 📖 [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
 - 📖 [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- 📖 [Algebraic blindness](https://github.com/quchen/articles/blob/master/algebraic-blindness.md)
+- 📖 [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
 - 📖 [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 - 📖 [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html)
 - 📖 [Introduction to Tagless Final](https://serokell.io/blog/tagless-final)
