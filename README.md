@@ -99,6 +99,9 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📹 [Railway oriented programming: Error handling in functional languages by Scott Wlaschin](https://vimeo.com/113707214)
 - 📹 [Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 
+## General FP
+- 📹 [Peeling the Banana: Recursion Schemes from First Principles - Zainab Ali](https://www.youtube.com/watch?v=XZ9nPZbaYfE)
+
 ## Lens
 - 📖 [Practical Profunctor Lenses & Optics In PureScript](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics/)
 - 📖 [Lenses for the Mere Mortal: PureScript Edition](https://leanpub.com/lenses) -- FREE book/pdf
@@ -124,7 +127,7 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
 - [Edward Kmett](https://www.youtube.com/channel/UCE3MJbkTVLoK8dAq7Del8ww)
 
-## Twitter Accounts to Follow
+## Folks to Follow (on Twitter)
 - [Alexis King](https://twitter.com/lexi_lambda)
 - [Iceland Jack](https://twitter.com/Iceland_jack)
 - [Type Classes](https://twitter.com/typeclasses)
