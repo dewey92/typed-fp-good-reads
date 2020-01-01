@@ -1,5 +1,5 @@
 # Typed FP - Good Reads
-My personal collection of good reads on typed functional programming. Feel free to add more stuff to it. PRs are highly appreciated.
+My personal collection of good reads on typed functional programming. PRs are highly appreciated though not 100% guaranteed to be merged, just to keep the list opiniated 🙂
 
 ## Types
 
