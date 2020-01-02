@@ -123,6 +123,7 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [Bay Area Haskell](https://www.youtube.com/channel/UCCL46pxWWtfhK3TxL55ybeQ)
 - [Monadic Warsaw](https://www.youtube.com/channel/UCCeiYYR2fCXarkfSqqFBwuA)
 - [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA)
+- [Brisbane Functional Programming Group](https://www.youtube.com/channel/UC3eIPN3YtTqPDDBbDVPlpWQ)
 - [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 - [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
 - [Edward Kmett](https://www.youtube.com/channel/UCE3MJbkTVLoK8dAq7Del8ww)
