@@ -55,6 +55,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📖 [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 - 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
 - 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
+- 📹 [Values, Types & Kinds - Dylan Just](https://www.youtube.com/watch?v=_cx0lhuW9E8)
 
 ## Functors & Family
 - 📖 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
