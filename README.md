@@ -102,6 +102,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 
 ## General FP
 - 📹 [Peeling the Banana: Recursion Schemes from First Principles - Zainab Ali](https://www.youtube.com/watch?v=XZ9nPZbaYfE)
+- 📹 [George Wilson - An Intuition for Propagators](https://www.youtube.com/watch?v=nY1BCv3xn24)
 
 ## Lens
 - 📖 [Practical Profunctor Lenses & Optics In PureScript](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics/)
