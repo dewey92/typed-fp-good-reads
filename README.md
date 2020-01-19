@@ -95,6 +95,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📖 Polysemy is fun!
   - [Part 1](https://haskell-explained.gitlab.io/blog/posts/2019/07/28/polysemy-is-cool-part-1/index.html)
   - [Part 2](https://haskell-explained.gitlab.io/blog/posts/2019/07/31/polysemy-is-cool-part-2/index.html)
+- 📖 [safe-money](https://ren.zone/articles/safe-money)
 - 📹 [Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - 📹 [Matt Parsons - Exceptional Haskell](https://youtu.be/A5c9kgDYXr8)
 - 📹 [Next Level MTL - George Wilson ](https://www.youtube.com/watch?v=GZPup5Iuaqw)
