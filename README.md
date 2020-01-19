@@ -51,6 +51,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📖 [Refine, fine, fine](https://danieljharvey.github.io/posts/2019-07-05-refined-types.html)
 - 📖 [Why Types Matter - A type-safe world](https://slides.com/volpegabriel/why-types-matter#/)
 - 📖 [Thinking in Types](https://thoughtbot.com/blog/thinking-in-types)
+- 📖 [No, dynamic type systems are not inherently more open](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
 - 📖 [PureScript GADTs Alternatives — Recap](https://medium.com/@hgiasac/purescript-gadts-alternatives-recap-7960daf4acd8)
 - 📖 [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 - 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
