@@ -173,6 +173,7 @@ Not necessarily typed FP, but they are great channels to learn FP
 - [Arian van Putten](https://twitter.com/ProgrammerDude)
 
 ## Other curated resources
+- https://github.com/graninas/software-design-in-haskell
 - https://github.com/safareli/tweets
 - https://github.com/mmenestret/fp-resources
 - https://github.com/soupi/haskell-study-plan
