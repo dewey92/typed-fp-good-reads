@@ -72,6 +72,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📖 [Demystifying `MonadBaseControl`](https://lexi-lambda.github.io/blog/2019/09/07/demystifying-monadbasecontrol/)
 - 📖 [Comonads are objects](http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html?m=1)
 - 📖 [Finite-State Machines, Part 1: Modeling with Haskell Data Types](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
+- 📖 [A Simple Reader Monad Example](https://blog.ssanj.net/posts/2014-09-23-A-Simple-Reader-Monad-Example.html)
 - 📹 [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74) **<- Best explanation about Free Monad**
 - 📹 [Free as in Monads (in Scala)](https://www.youtube.com/watch?v=cxMo1RMsD0M)
 - 📹 [A Series of Unfortunate Effects - Robert M. Avram](https://www.youtube.com/watch?v=y5jZnMImbMY)
