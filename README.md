@@ -116,6 +116,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📹 [Sara Fransson: Functional lenses through a practical lens](https://www.youtube.com/watch?v=sFzuu676pFs)
 
 ## GHC
+- 📖 [Deriving via](https://ryanglscott.github.io/talk-slides/deriving-via-plclub-slides.pdf)
 - 📹 [DerivingVia: How to Turn Hand-Written Instances into an Anti-Pattern](https://www.youtube.com/watch?v=Zww6pKxxaOg&t=1396s)
 
 ---
