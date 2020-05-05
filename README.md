@@ -106,6 +106,9 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📹 [Railway oriented programming: Error handling in functional languages by Scott Wlaschin](https://vimeo.com/113707214)
 - 📹 [Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 
+## FRP (Functional Reactive Programming)
+- 📖 [PureScript: UI driven by Finite State Machines and Event Streams](https://dev.to/shamansir/purescript-ui-driven-by-finite-state-machines-and-event-streams-994)
+
 ## General FP
 - 📹 [Peeling the Banana: Recursion Schemes from First Principles - Zainab Ali](https://www.youtube.com/watch?v=XZ9nPZbaYfE)
 - 📹 [George Wilson - An Intuition for Propagators](https://www.youtube.com/watch?v=nY1BCv3xn24)
