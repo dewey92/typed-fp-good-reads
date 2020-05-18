@@ -107,6 +107,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📹 [Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 
 ## FRP (Functional Reactive Programming)
+- 📖 [Functional Reactive Programming (Introduction)](https://www.cis.upenn.edu/~cis194/fall16/lectures/11-frp.html)
 - 📖 PureScript: UI driven by Finite State Machines and Event Streams
   - [Part 1](https://dev.to/shamansir/purescript-ui-driven-by-finite-state-machines-and-event-streams-994)
   - [Part 2](https://dev.to/shamansir/purescript-ui-driven-by-finite-state-machines-and-event-streams-part-ii-the-example-3m77)
