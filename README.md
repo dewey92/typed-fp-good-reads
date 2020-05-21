@@ -80,6 +80,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📹 [John Hughes - Monad and all that](https://www.youtube.com/playlist?list=PLGCr8P_YncjVeZTcfHT1Cb1OfVnNahek5) **<- Deep dive into Monad**
 - 📹 [Vincent Marquez, Index your State for Safer Functional APIs](https://www.youtube.com/watch?v=JPVagd9W4Lo)
 - 📹 [A roadtrip with monads: from MTL, through tagless to BIO - Paweł Szulc](https://www.youtube.com/watch?v=eth4y015BCU)
+- 📹 [Monad Transformer Workshop](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
 
 ## App Structure, Tips, etc
 - 📖 [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
