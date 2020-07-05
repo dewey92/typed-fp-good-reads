@@ -54,7 +54,6 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📖 [No, dynamic type systems are not inherently more open](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
 - 📖 [PureScript GADTs Alternatives — Recap](https://medium.com/@hgiasac/purescript-gadts-alternatives-recap-7960daf4acd8)
 - 📖 [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
-- 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
 - 📹 [Functors of the World, Unite!](https://www.youtube.com/watch?v=8k7YH9st_8U)
 - 📹 [Values, Types & Kinds - Dylan Just](https://www.youtube.com/watch?v=_cx0lhuW9E8)
 
@@ -127,6 +126,16 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📖 [Deriving via](https://ryanglscott.github.io/talk-slides/deriving-via-plclub-slides.pdf)
 - 📖 [Mirror Mirror: Reflection and Encoding Via](https://www.parsonsmatt.org/2020/02/04/mirror_mirror.html)
 - 📹 [DerivingVia: How to Turn Hand-Written Instances into an Anti-Pattern](https://www.youtube.com/watch?v=Zww6pKxxaOg&t=1396s)
+
+## Programming Language, Type Inference
+- 📖 [A reckless introduction to Hindley-Milner type inference](https://www.lesswrong.com/posts/vTS8K4NBSi9iyCrPo/a-reckless-introduction-to-hindley-milner-type-inference)
+- 📖 [An Explanation of Type Inference for ML/Haskell](https://jozefg.bitbucket.io/posts/2015-02-28-type-inference.html)
+- 📖 [Practical type inference for arbitrary-rank types](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
+- 📖 [Write You A Haskell](http://dev.stephendiehl.com/fun/WYAH.pdf)
+- 🔗 [Types and Programming Language - Discussion Group](https://github.com/computationclub/computationclub.github.io/wiki#types-and-programming-languages)
+- 📹 [How to Translate PL Judgements into Code](https://www.twitch.tv/videos/667395509)
+- 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
+- 📹 [Type Inference from Scratch: A Workshop with Christoph Hegemann](https://www.youtube.com/watch?v=frM7GhBERAs)
 
 ---
 
