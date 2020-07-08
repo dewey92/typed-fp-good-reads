@@ -133,9 +133,10 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📖 [Practical type inference for arbitrary-rank types](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
 - 📖 [Write You A Haskell](http://dev.stephendiehl.com/fun/WYAH.pdf)
 - 🔗 [Types and Programming Language - Discussion Group](https://github.com/computationclub/computationclub.github.io/wiki#types-and-programming-languages)
-- 📹 [How to Translate PL Judgements into Code](https://www.twitch.tv/videos/667395509)
-- 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
 - 📹 [Type Inference from Scratch: A Workshop with Christoph Hegemann](https://www.youtube.com/watch?v=frM7GhBERAs)
+- 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
+- 📹 [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
+- 📹 [How to Translate PL Judgements into Code](https://www.twitch.tv/videos/667395509)
 
 ---
 
