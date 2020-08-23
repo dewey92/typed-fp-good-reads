@@ -22,7 +22,6 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📖 [PureScript: Instance chains and Overlapping Instances](https://liamgoodacre.github.io/purescript/instance/chain/2017/08/18/purescript-instance-chain.html)
 - 📖 [On Type Class Instance Selection](https://link.medium.com/wFKFWYtSI1)
 - 📹 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI) **<- Cool introduction to type class**
-- 📹 [Type Classes & Constrained Polymorphism - Haskell](https://youtu.be/pCzTCgp3d_U)
 
 ### Existential Type
 - 📖 [Existential quantification (by Mark Karpov)](https://markkarpov.com/post/existential-quantification.html)
