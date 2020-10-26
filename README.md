@@ -136,6 +136,7 @@ My personal collection of good reads on typed functional programming. PRs are hi
 - 📹 [Christoph Hegemann, TYPE INFERENCE FROM SCRATCH](https://www.youtube.com/watch?v=ytPAlhnAKro)
 - 📹 [Introduction to Type Inference](https://www.youtube.com/watch?v=il3gD7XMdmA)
 - 📹 [How to Translate PL Judgements into Code](https://www.twitch.tv/videos/667395509)
+- 📹 [Intro to PLT - Dave Laing](https://www.youtube.com/watch?v=3H69z6u5i0c)
 
 ---
 
